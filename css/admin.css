@@ -1,0 +1,34 @@
+.dashboar-bg
+{
+    background: #131632;
+    color: #97999f;
+}
+.title-bg
+{
+    background: rgba(44,171,227,1);
+}
+.w3-hover-d2:hover{color:#97999f!important;background-color:#262934!important}
+.w3-hover-title-bg:hover{background-color:rgba(44,171,227,1)!important}
+
+.w3-theme-l5 {color:#000 !important; background-color:#ecedf8 !important}
+.w3-theme-l4 {color:#000 !important; background-color:#bfc3e7 !important}
+.w3-theme-l3 {color:#fff !important; background-color:#8088cf !important}
+.w3-theme-l2 {color:#fff !important; background-color:#444fb3 !important}
+.w3-theme-l1 {color:#fff !important; background-color:#2c3373 !important}
+.w3-theme-d1 {color:#fff !important; background-color:#12152f !important}
+.w3-theme-d2 {color:#fff !important; background-color:#101229 !important}
+.w3-theme-d3 {color:#fff !important; background-color:#0e1024 !important}
+.w3-theme-d4 {color:#fff !important; background-color:#0c0e1f !important}
+.w3-theme-d5 {color:#fff !important; background-color:#0a0b1a !important}
+
+.w3-theme-light {color:#000 !important; background-color:#ecedf8 !important}
+.w3-theme-dark {color:#fff !important; background-color:#0a0b1a !important}
+.w3-theme-action {color:#fff !important; background-color:#0a0b1a !important}
+
+.w3-theme {color:#97999f !important; background-color:#131632 !important}
+.w3-text-theme {color:#97999f !important}
+.w3-border-theme {border-color:#131632 !important}
+
+.w3-hover-theme:hover {color:#fff !important; background-color:#131632 !important}
+.w3-hover-text-theme:hover {color:#131632 !important}
+.w3-hover-border-theme:hover {border-color:#131632 !important}
